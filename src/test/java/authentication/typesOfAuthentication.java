@@ -54,8 +54,20 @@ public class typesOfAuthentication {
 		.body("authenticated", equalTo(true));
 		
 	}
-	
-	
+	@Test(enabled=false)
+	void verifyBearerTokenAuthentication()
+	{
+		String bearerToken = "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";
+		given()
+		.header("Authorization","Bearer " +bearerToken)
+		.when()
+		.get("https://github.com/mujahid7992?tab=repositories")
+		.then()
+		.statusCode(200)
+		.log().body();
+		
+	}
+	@Test
 	void verifyAPIKeyAuthentication()
 	{
 		given()
