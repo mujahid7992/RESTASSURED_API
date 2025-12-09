@@ -54,20 +54,8 @@ public class typesOfAuthentication {
 		.body("authenticated", equalTo(true));
 		
 	}
-	@Test(enabled=false)
-	void verifyBearerTokenAuthentication()
-	{
-		
-		given()
-		.header("Authorization","Bearer " +"abcde")
-		.when()
-		.get("https://postman-echo.com/basic-auth")
-		.then()
-		.statusCode(200)
-		.log().body();
-		
-	}
-	@Test
+	
+	
 	void verifyAPIKeyAuthentication()
 	{
 		given()
