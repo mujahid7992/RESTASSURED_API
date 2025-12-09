@@ -1,0 +1,117 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Arjun",
+      "location": "Hyderabad",
+      "courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Priya",
+      "location": "Mumbai",
+      "courses": [
+        "Python",
+        "Django"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Rohit",
+      "location": "Bangalore",
+      "courses": [
+        "DevOps",
+        "AWS"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Sneha",
+      "location": "Chennai",
+      "courses": [
+        "React",
+        "Node.js"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Kiran",
+      "location": "Pune",
+      "courses": [
+        "SQL",
+        "PowerBI"
+      ]
+    },
+    {
+      "id": "225",
+      "courses": [
+        "Running",
+        "Screaming"
+      ],
+      "name": "Nouman",
+      "location": "Hyderabad"
+    },
+    {
+      "id": "e2e4",
+      "empty": false,
+      "mapType": "java.util.HashMap"
+    },
+    {
+      "id": 300,
+      "courses": [
+        "Reading",
+        "Cooking"
+      ],
+      "name": "Soni",
+      "location": "Attapur"
+    },
+    {
+      "id": 300,
+      "courses": [
+        "Reading",
+        "Cooking"
+      ],
+      "name": "Soni",
+      "location": "Attapur"
+    },
+    {
+      "id": 0,
+      "name": "Sandeep",
+      "location": "Chennai",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    },
+    {
+      "id": 300,
+      "courses": [
+        "Reading",
+        "Cooking"
+      ],
+      "name": "Soni",
+      "location": "Attapur"
+    },
+    {
+      "id": 0,
+      "name": "Sandeep",
+      "location": "Chennai",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    },
+    {
+      "id": 123,
+      "name": "Sandeep",
+      "location": "Chennai",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    }
+  ]
+}

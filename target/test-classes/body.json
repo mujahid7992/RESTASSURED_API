@@ -1,0 +1,10 @@
+{ 
+"students": [
+    {
+      "id": "15",
+      "name": "Murali",
+      "location": "Bagalore",
+      "courses": ["Java", "Playwright"]
+    }
+    ]
+}

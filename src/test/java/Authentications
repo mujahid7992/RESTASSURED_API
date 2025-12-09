@@ -1,0 +1,11 @@
+Types of authentication
+
+1.Basic authentication-user and password directly
+2.Basic-pre emptive-username and password encoded(base64) no security,any one who knows base 64 can convert easily.
+3.Digest-data is encrypted
+4.Bearer token
+5.API key authentication
+6.OAuth
+7.OAuth2
+
+
