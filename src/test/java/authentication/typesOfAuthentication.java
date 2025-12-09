@@ -57,11 +57,11 @@ public class typesOfAuthentication {
 	@Test(enabled=false)
 	void verifyBearerTokenAuthentication()
 	{
-		String bearerToken = "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";
+		
 		given()
-		.header("Authorization","Bearer " +bearerToken)
+		.header("Authorization","Bearer " +"abcd")
 		.when()
-		.get("https://github.com/mujahid7992?tab=repositories")
+		.get("https://postman-echo.com/basic-auth")
 		.then()
 		.statusCode(200)
 		.log().body();
