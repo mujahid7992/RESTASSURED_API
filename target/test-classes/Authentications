@@ -5,7 +5,6 @@ Types of authentication
 3.Digest-data is encrypted
 4.Bearer token
 5.API key authentication
-6.OAuth
-7.OAuth2
+6.OAuth2-we need client id and client secret
 
 
