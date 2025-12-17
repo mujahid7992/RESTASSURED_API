@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="authentication.typesOfAuthentication">
+      <class name="Serilazation_Deserialization.Serialization_deserialization_example">
         <methods>
-          <include name="verifyAPIKeyAuthentication"/>
+          <include name="testDeserialization"/>
+          <include name="testserialization"/>
         </methods>
-      </class> <!-- authentication.typesOfAuthentication -->
+      </class> <!-- Serilazation_Deserialization.Serialization_deserialization_example -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

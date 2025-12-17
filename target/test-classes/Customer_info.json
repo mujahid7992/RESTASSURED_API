@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "data": {
+    "userDetails": {
+      "id": 12345,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phoneNumbers": [
+        {
+          "type": "home",
+          "number": "123-456-7890"
+        },
+        {
+          "type": "work",
+          "number": "987-654-3210"
+        }
+      ],
+      "address": {
+        "street": "123 Main St",
+        "city": "Springfield",
+        "state": "IL",
+        "postalCode": "62704",
+        "geo": {
+          "latitude": 39.7817,
+          "longitude": -89.6501
+        }
+      },
+      "preferences": {
+        "notifications": true,
+        "theme": "dark",
+        "languages": ["English", "Spanish", "French"]
+      }
+    }
+    
+  }
+}

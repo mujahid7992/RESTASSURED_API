@@ -107,7 +107,7 @@ void CreateStudentPojoClass()
 	studentID=given()
 	.baseUri(baseURI)
 	.contentType(ContentType.JSON)
-	.body(requestBody)//need to convert to string
+	.body(requestBody.toString())//need to convert to string
 				
 	.when()
 	.post("/students")

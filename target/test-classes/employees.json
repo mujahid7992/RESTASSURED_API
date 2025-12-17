@@ -1,0 +1,74 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Aarav",
+      "last_name": "Sharma",
+      "email": "aarav.sharma@example.com",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "first_name": "Ananya",
+      "last_name": "Reddy",
+      "email": "ananya.reddy@example.com",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "first_name": "Rahul",
+      "last_name": "Verma",
+      "email": "rahul.verma@example.com",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "first_name": "Sneha",
+      "last_name": "Iyer",
+      "email": "sneha.iyer@example.com",
+      "gender": "Female"
+    },
+    {
+      "id": 5,
+      "first_name": "Vikram",
+      "last_name": "Patel",
+      "email": "vikram.patel@example.com",
+      "gender": "Male"
+    },
+    {
+      "id": 6,
+      "first_name": "Pooja",
+      "last_name": "Nair",
+      "email": "pooja.nair@example.com",
+      "gender": "Female"
+    },
+    {
+      "id": 7,
+      "first_name": "Karan",
+      "last_name": "Mehta",
+      "email": "karan.mehta@example.com",
+      "gender": "Male"
+    },
+    {
+      "id": 8,
+      "first_name": "Neha",
+      "last_name": "Kapoor",
+      "email": "neha.kapoor@example.com",
+      "gender": "Female"
+    },
+    {
+      "id": 9,
+      "first_name": "Arjun",
+      "last_name": "Singh",
+      "email": "arjun.singh@example.com",
+      "gender": "Male"
+    },
+    {
+      "id": 10,
+      "first_name": "Divya",
+      "last_name": "Malhotra",
+      "email": "divya.malhotra@example.com",
+      "gender": "Female"
+    }
+  ]
+}
